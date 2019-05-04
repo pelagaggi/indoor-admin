@@ -1,0 +1,11 @@
+adminAuth.js
+./adminAuth.js
+node_modules
+./node_modules
+*.config.json
+./*.config.json.backup
+./.config.json
+./.config.json.backup
+mongodbURI.js
+.config.json
+.config.json.backup
